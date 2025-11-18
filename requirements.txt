@@ -1,0 +1,7 @@
+streamlit
+spacy
+pandas
+gspread
+oauth2client
+altair
+PyMuPDF
