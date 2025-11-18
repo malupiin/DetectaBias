@@ -6,4 +6,4 @@ oauth2client
 altair
 PyMuPDF
 python-dotenv
-google-generativeai
+google-genai
